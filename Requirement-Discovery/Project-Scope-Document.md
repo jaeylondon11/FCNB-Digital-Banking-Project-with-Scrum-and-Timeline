@@ -3,7 +3,7 @@
 ## Project Title: FCNB Digital Banking Project with Scrum and Timeline
 
 ### Project Overview
-The FCNB Digital Banking Project aims to enhance the digital banking services offered by FCNB by following Scrum principles. The project includes a real timeline and milestones to ensure timely and efficient delivery of features.
+The FCNB Digital Banking Project aims to enhance the digital banking services offered by FCNB by following Scrum principles. The project includes the real timeline and milestones to ensure timely and efficient delivery of features.
 
 ### Objectives
 - Improve customer experience through enhanced online banking features.
