@@ -40,7 +40,7 @@ This project enhances digital banking services for FCNB, following Scrum princip
     - Develops mobile applications using Swift and Kotlin.
   - **QA Engineer:** Robert Taylor
     - Conducts testing to ensure functionality and quality.
-  - **Business Analyst:** Olivia Wilson
+  - **Business Analyst & Scrum Master:** Justin Onyewuchi
     - Analyzes requirements and ensures they are well-defined.
   - **UX/UI Designer:** Emma White
     - Designs user-friendly interfaces and improves user experience.
